@@ -1,5 +1,5 @@
 body {
-  background-color: #2e9aa1;
+  background-color:gray;
 }
 
 .heading {
@@ -38,7 +38,7 @@ body {
 }
 
 .film {
-  font-size: 16px;
+  font-size: larger;
   text-transform: uppercase;
 }
 
